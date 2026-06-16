@@ -1,5 +1,3 @@
-Ось оновлений README:
-
 FIFA WC 2026 Resale Ticket Bot
 A Chrome extension for automated FIFA World Cup 2026 resale ticket sniping.
 Monitors FIFA resale seat maps in real time, intercepts live seat availability directly from the STX widget, finds the cheapest adjacent tickets matching your price range, and adds them to cart — all automatically.
